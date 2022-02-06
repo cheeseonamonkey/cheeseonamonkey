@@ -7,9 +7,7 @@
 ## About Me
 
 - 🔭 I’m currently working on:
-    - [PoolTrack](https://github.com/cheeseonamonkey/PoolTrack)
-    - [DavisTechCanvasAPIApp](https://github.com/cheeseonamonkey/DavisTechCanvasAPIApp)
-    - [CryptIt-ObsidianPlugin](https://github.com/cheeseonamonkey/CryptIt-ObsidianPlugin)
+    -
 
 - 🌱 I’m currently learning **Java**
 
