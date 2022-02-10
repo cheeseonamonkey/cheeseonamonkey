@@ -1,5 +1,7 @@
 # Hi 👋, I'm Alexander Huso
 ## https://alexanderhuso.wordpress.com/
+### https://www.linkedin.com/in/alexanderhuso/
+
 
 #### Insightful software development professional with 3 years’ educational, personal, and professional experience with many programming languages and concepts. Client-focused and detail-oriented, with 5+ years experience both managing and working in conjunction with a small team.
 
@@ -7,13 +9,14 @@
 ## About Me
 
 - 🔭 I’m currently working on:
-    -
+    - 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning:
+    - 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/cheeseonamonkey)
 
-- 📫 How to reach me **https://www.linkedin.com/in/alexanderhuso/**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **I like to research on new technologies**
 
