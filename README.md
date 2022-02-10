@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexander Huso
-## https://alexanderhuso.wordpress.com/
-### https://www.linkedin.com/in/alexanderhuso/
+##### https://alexanderhuso.wordpress.com/
+##### https://www.linkedin.com/in/alexanderhuso/
 
 
 #### Insightful software development professional with 3 years’ educational, personal, and professional experience with many programming languages and concepts. Client-focused and detail-oriented, with 5+ years experience both managing and working in conjunction with a small team.
