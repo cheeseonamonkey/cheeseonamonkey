@@ -1,12 +1,12 @@
 # Hi!  I'm Alex :)
 
 
-<! - -
+<!--
 Cool scrolling text:
 
-![](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-  - - >
+  -->
 
 I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
 
