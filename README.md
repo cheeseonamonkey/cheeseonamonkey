@@ -1,10 +1,8 @@
 # Hi!  I'm Alex :)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
-<!--
-Cool scrolling text:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I don't know what this should say yet but it sure is neat.)
 
   -->
 
