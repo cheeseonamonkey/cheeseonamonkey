@@ -1,4 +1,5 @@
-# Hi! I'm Alex :)
+# Hi!  I'm Alex :)
+
 [github](https://github.com/cheeseonamonkey/)
 [wordpress](https://alexanderhuso.wordpress.com/)
 [linkedIn](https://www.linkedin.com/in/alexanderhuso/)
@@ -6,6 +7,9 @@
 
 
 Insightful coder experienced in mostly object-oriented programming languages.
+
+
+---
 
 
 ## About Me
@@ -34,9 +38,6 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 
 ---
-
-
-
 
 
 
