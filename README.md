@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/54555500/153712719-51c9fa3c-d2aa-4e3d-89de-5ca9799b6926.jpg" width="95%" height="120px">
+<img src="https://user-images.githubusercontent.com/54555500/153712719-51c9fa3c-d2aa-4e3d-89de-5ca9799b6926.jpg" width="100%" height="120px" align="center">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
