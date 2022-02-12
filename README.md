@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I don't know what this should say yet but it sure is neat.)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
 
   -->
 
