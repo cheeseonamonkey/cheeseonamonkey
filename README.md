@@ -9,8 +9,6 @@
 Insightful coder experienced in mostly object-oriented programming languages.
 
 
----
-
 
 ## About Me
 
