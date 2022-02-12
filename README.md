@@ -54,7 +54,7 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 
 
-## Education:
+## Education
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
 Kaysville, UT<br>
