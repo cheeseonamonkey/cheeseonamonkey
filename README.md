@@ -1,8 +1,8 @@
 # Hi!  I'm Alex :)
 
-I'm an aspiring coder fascinated by technology, and experienced inmostly object-oriented programming languages.
+I'm a random coder fascinated by technology, and experienced mostly in object-oriented programming languages.
 
-I'm very passionate about running, coding, and piano.
+I'm very passionate about running, coding, politics, and piano.
 
 
 ## 👦 **About Me**
