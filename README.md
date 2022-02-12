@@ -75,7 +75,6 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-(lol these are not my stats? will see if actions updates it later)
 
 | Profile stats | Languages |
 | ---------- | ---------- |
