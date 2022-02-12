@@ -17,7 +17,7 @@ Insightful coder experienced in mostly object-oriented programming languages.
         Adding live price lookup feature
     - [Spotify Manager](https://github.com/cheeseonamonkey/SpotMan) (Android app)
         Android app to do stuff in the Spotify API
-            *(on pause for now - needs a lot of low-level structural changes; when I started, I wasn't as knowledgable about Android development as I am now)*
+        *(on pause for now - needs a lot of low-level structural changes; when I started, I wasn't as knowledgable about Android development as I am now)*
 
 - 🌱 I’m currently learning:
     - Android development (Java)
