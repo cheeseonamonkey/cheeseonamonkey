@@ -1,8 +1,8 @@
 # Hi!  I'm Alex :)
 
-[github](https://github.com/cheeseonamonkey/)
-[wordpress](https://alexanderhuso.wordpress.com/)
-[linkedIn](https://www.linkedin.com/in/alexanderhuso/)
+- [github](https://github.com/cheeseonamonkey/)
+- [wordpress](https://alexanderhuso.wordpress.com/)
+- [linkedIn](https://www.linkedin.com/in/alexanderhuso/)
 
 
 
