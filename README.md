@@ -10,7 +10,7 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-<h3> 👦 **About Me**. </h3>
+<h3> 👦 About Me </h3>
 
 
 - 🔭 I’m currently working on:
@@ -43,7 +43,7 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-<h3>  📊 **Stats** </h3> 
+<h3>  📊 Stats </h3> 
 
 
 <h3 align="left">Technical Competencies</h3>
@@ -79,7 +79,7 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-<h3>  🏫 **Education** </h3> 
+<h3>  🏫 Education </h3> 
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
 Utah, USA<br>
