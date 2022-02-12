@@ -25,8 +25,9 @@ I'm very passionate about running, coding, politics, and piano.
 - 📫 How to reach me:
     - Shoot me a message here on Github or [email me](mailto:cheeseonamonkey@gmail.com)
 
-
+ <!--- idk put something here some day
 - ⚡ Cool / misc: 
+ -->
 
 
 
