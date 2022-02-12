@@ -2,9 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I don't know what this should say yet; But it sure is neat.)
 
-  -->
 
 I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
 
