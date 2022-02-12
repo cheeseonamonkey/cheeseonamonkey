@@ -19,18 +19,22 @@ Insightful coder experienced in mostly object-oriented programming languages.
         Android app to do stuff in the Spotify API
         *(on pause for now - needs a lot of low-level structural changes; when I started, I wasn't as knowledgable about Android development as I am now)*
 
+
 - 🌱 I’m currently learning:
     - Android development (Java)
     - Basic Typescript (and more advanced Javascript)
 
+
 - 📫 How to reach me:
-    Shoot me a message here on Github, or [email me](mailto:cheeseonamonkey@gmail.com)
+    Shoot me a message here on Github, [email me,](mailto:cheeseonamonkey@gmail.com) or show up unannounced at my door! <small> *(don't actually do that)* </small>
+
 
 - ⚡ Cool / misc: 
 
 
 
-<h3 align="left">Technical Competencies</h3>
+---
+
 
 
 <h3 align="left">Technical Competencies</h3>
@@ -47,6 +51,7 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 Education:
 #### Davis Technology College — Software & Web Development - Java Emphasis
