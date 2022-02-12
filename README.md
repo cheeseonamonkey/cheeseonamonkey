@@ -19,15 +19,16 @@ I am very passionate about running, coding, politics, and piano.
 - 💻 I’m currently working on:
     - [Obsidian Companion](https://github.com/cheeseonamonkey/ObsidianCompanion) (Android app)
         
-    Companion app to the Obsidian.MD Android app
+    >Companion app to the Obsidian.MD Android app
 
     - [Obsidian Crypto Lookup](https://github.com/cheeseonamonkey/obsidian-crypto-lookup) (Obsidian plugin)
         
-    Adding live price lookup feature
+    >Live price lookup feature
 
     - [Spotify Manager](https://github.com/cheeseonamonkey/SpotMan) (Android app)
         
-     Android app to do stuff with the Spotify API     *(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
+     >*Android app to do stuff with the Spotify API
+     >(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
 
 
 - 🌱 I’m currently learning:
