@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
+![](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
 
 I'm just another coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
 
@@ -13,7 +13,7 @@ I am very passionate about running, coding, politics, and piano.
 <h3> 👦 About Me </h3>
 
 
-- 🔭 I’m currently working on:
+- ⌨️ I’m currently working on:
     - [Obsidian Companion](https://github.com/cheeseonamonkey/ObsidianCompanion) (Android app)
         Make it easier to use the Obsidian.MD Android app. 
     - [Obsidian Crypto Lookup](https://github.com/cheeseonamonkey/obsidian-crypto-lookup) (Obsidian plugin)
@@ -31,7 +31,7 @@ I am very passionate about running, coding, politics, and piano.
 - 📫 How to reach me:
     - Shoot me a message here on Github or [email me](mailto:cheeseonamonkey@gmail.com)
 
- <!--- idk put something here some day
+ <!--- idk put something here some day maybe 
 - ⚡ Cool / misc: 
  -->
 
