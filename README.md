@@ -43,13 +43,11 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 ## Stats
 
-<p align="center">
 
 | Profile stats | Languages |
 | ------------- | ------------- |
 | ![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)  | ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)  |
 
-</p>
 
 
 
