@@ -41,7 +41,10 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
 
 
 ## 📊 **Stats**
-
+<!---
+your comment goes here
+and here
+-->
 
 <h3 align="left">Technical Competencies</h3>
 
