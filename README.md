@@ -35,7 +35,7 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeseonamonkey&show_icons=true&locale=en&layout=compact" alt="cheeseonamonkey" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Education:
