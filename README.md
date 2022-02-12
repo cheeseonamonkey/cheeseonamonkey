@@ -4,7 +4,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Hi...;I'm+Alex+:%29)
 
-I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages, especially Java and C#, but I have dabbled in many areas.
+I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
 I am very passionate about running, coding, politics, and piano. 
 
