@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
 
-  -->
-
 I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
 
 I'm very passionate about running, coding, politics, and piano. 
