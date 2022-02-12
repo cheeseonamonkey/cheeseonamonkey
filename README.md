@@ -10,7 +10,7 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
 
 
 
-## About Me
+## 👦 **About Me**
 
 - 🔭 I’m currently working on:
     - [Obsidian Companion](https://github.com/cheeseonamonkey/ObsidianCompanion) (Android app)
@@ -57,7 +57,7 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
 
 
 | Profile stats | Languages |
-| ------------- | ------------- |
+| ---------- | ---------- |
 | ![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)  | ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)  |
 
 
@@ -67,7 +67,7 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
 
 
 
-## Education
+## 🏫 **Education**
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
 Kaysville, UT<br>
