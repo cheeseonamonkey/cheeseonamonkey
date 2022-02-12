@@ -2,7 +2,7 @@
 
 I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields.
 
-I'm very passionate about running, coding, politics, and piano.
+I'm very passionate about running, coding, politics, and piano. 
 
 
 ## 👦 **About Me**
