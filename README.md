@@ -62,7 +62,7 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a>
 </p>
 
-
+<br>
 
 | Profile stats | Languages |
 | ---------- | ---------- |
