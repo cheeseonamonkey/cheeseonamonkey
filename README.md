@@ -16,13 +16,13 @@ Insightful coder experienced in mostly object-oriented programming languages.
     - [Obsidian Crypto Lookup](https://github.com/cheeseonamonkey/obsidian-crypto-lookup) (Obsidian plugin)
         Adding live price lookup feature
     - [Spotify Manager](https://github.com/cheeseonamonkey/SpotMan) (Android app)
-        Android app to do stuff in the Spotify API
-            - *(on pause for now - needs a lot of low-level structural changes; when I started, I wasn't as knowledgable about Android development as I am now)*
+        Android app to do stuff in the Spotify API     *(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
 
 
 - 🌱 I’m currently learning:
     - Android development (Java)
     - Basic Typescript (and more advanced Javascript)
+    - Azure
 
 
 - 📫 How to reach me:
@@ -48,8 +48,12 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 
 
+## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)
+
+![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)
+
 
 ---
 
