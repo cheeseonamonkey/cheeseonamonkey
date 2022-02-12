@@ -46,7 +46,7 @@ Insightful coder fascinated by technology, and experienced inmostly object-orien
 <h3 align="left">Technical Competencies</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <!---  C#  -->
+    <!---  C#  --> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <!---  CSS  -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
