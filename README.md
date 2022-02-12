@@ -29,8 +29,8 @@ I am very passionate about running, coding, politics, and piano.
 
 
 - 🌱 I’m currently learning:
-    - Android development (Java)
-    - Basic Typescript (and more advanced Javascript)
+    - Advanced Android development (Java)
+    - Intermediate Typescript (and advanced Javascript)
     - Azure
 
 
