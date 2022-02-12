@@ -75,13 +75,13 @@ I'm very passionate about running, coding, politics, and piano.
 ## 🏫 **Education**
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
-Utah<br>
+Utah, USA<br>
 Graduation date: February 2020<br>
 Application, database, and software design principles; Java, HTML/CSS, Javascript, SQL, .NET<br>
 https://www.davistech.edu/software-development
 
 
 #### High School Diploma
-Utah<br>
+Utah, USA<br>
 Graduation: 2013<br>
 Programming Club - 2010-2011<br>
