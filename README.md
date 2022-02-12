@@ -1,11 +1,16 @@
 # Hi!  I'm Alex :)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm just a random coder fascinated by technology.; I am experienced mostly in object-oriented programming languages, but have dabbled in many areas.;I am very passionate about running, coding, politics, and piano.  )](https://git.io/typing-svg)
 
+<! - -
+Cool scrolling text:
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+  - - >
 
+I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
 
+I'm very passionate about running, coding, politics, and piano. 
 
 <br>
 ## 👦 **About Me**
