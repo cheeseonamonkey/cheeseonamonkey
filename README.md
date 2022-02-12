@@ -1,6 +1,6 @@
 # Hi!  I'm Alex :)
 
-I'm a random coder fascinated by technology, and experienced mostly in object-oriented programming languages.
+I'm just some random coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields.
 
 I'm very passionate about running, coding, politics, and piano.
 
