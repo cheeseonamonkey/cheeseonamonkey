@@ -4,8 +4,9 @@ I'm just some random coder fascinated by technology. I am experienced mostly in 
 
 I'm very passionate about running, coding, politics, and piano. 
 
-
+<br>
 ## 👦 **About Me**
+
 
 - 🔭 I’m currently working on:
     - [Obsidian Companion](https://github.com/cheeseonamonkey/ObsidianCompanion) (Android app)
@@ -35,7 +36,7 @@ I'm very passionate about running, coding, politics, and piano.
 
 
 
-
+<br>
 ## 📊 **Stats**
 
 
@@ -70,7 +71,7 @@ I'm very passionate about running, coding, politics, and piano.
 
 
 
-
+<br>
 ## 🏫 **Education**
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
