@@ -77,7 +77,7 @@ I am very passionate about running, coding, politics, and piano.
 
 | Profile stats | Languages |
 | ---------- | ---------- |
-| ![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)  | ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)  |
+| ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)  | ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)  |
 
 
 
