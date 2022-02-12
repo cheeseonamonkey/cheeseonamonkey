@@ -1,15 +1,8 @@
 # Hi!  I'm Alex :)
 
-But you can call me "Hey you!".
+I'm an aspiring coder fascinated by technology, and experienced inmostly object-oriented programming languages.
 
-- [github](https://github.com/cheeseonamonkey/)
-- [wordpress](https://alexanderhuso.wordpress.com/)
-- [linkedIn](https://www.linkedin.com/in/alexanderhuso/)
-
-
-
-Insightful coder fascinated by technology, and experienced inmostly object-oriented programming languages.
-
+I'm very passionate about running, coding, and piano.
 
 
 ## 👦 **About Me**
