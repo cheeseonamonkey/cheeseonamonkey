@@ -75,13 +75,13 @@ I'm very passionate about running, coding, politics, and piano.
 ## 🏫 **Education**
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
-Kaysville, UT<br>
+Utah<br>
 Graduation date: February 2020<br>
 Application, database, and software design principles; Java, HTML/CSS, Javascript, SQL, .NET<br>
 https://www.davistech.edu/software-development
 
-#### Layton High School — High School Diploma
-Layton, UT<br>
-Graduation date: May 2013<br>
-High school diploma<br>
+
+#### High School Diploma
+Utah<br>
+Graduation: 2013<br>
 Programming Club - 2010-2011<br>
