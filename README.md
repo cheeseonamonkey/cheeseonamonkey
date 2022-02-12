@@ -49,6 +49,12 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 
 ## Stats
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+
+
 <p align="right">
 ![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)
     </p>
