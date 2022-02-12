@@ -50,9 +50,9 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)
+<span style="float: left;">![](https://github-readme-stats.vercel.app/api?username=cheeseonamonkey&theme=tokyonight)</span>
 
-![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)
+<span style="float: left;">![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)</span>
 
 
 ---
