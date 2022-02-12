@@ -1,13 +1,10 @@
 <img src="https://user-images.githubusercontent.com/54555500/153712719-51c9fa3c-d2aa-4e3d-89de-5ca9799b6926.jpg" width="95%" height="120px">
 
-
-# Hi!  I'm Alex :)
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
 
-![](https://readme-typing-svg.herokuapp.com/?lines=I+don't+know+what+this+should+say+yet+but+it+sure+is+neat.)
+![](https://readme-typing-svg.herokuapp.com/?lines=Hi...;I'm+Alex+:%29)
 
-I'm just another coder fascinated by technology. I am experienced mostly in object-oriented programming languages, but have dabbled in many fields. 
+I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages, especially Java and C#, but I have dabbled in many areas.
 
 I am very passionate about running, coding, politics, and piano. 
 
