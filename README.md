@@ -6,7 +6,7 @@
 
 
 
-Insightful coder experienced in mostly object-oriented programming languages.
+Insightful coder fascinated by technology, and experienced inmostly object-oriented programming languages.
 
 
 
@@ -40,7 +40,7 @@ Insightful coder experienced in mostly object-oriented programming languages.
 
 
 
-## Stats
+## 📊 **Stats**
 
 
 <h3 align="left">Technical Competencies</h3>
