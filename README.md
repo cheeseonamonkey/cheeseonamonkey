@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/54555500/153712719-51c9fa3c-d2aa-4e3d-89de-5ca9799b6926.jpg" width="100%" height="120px" align="center">
  
-![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) 
+[![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) ](#)
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Hi...;I'm+Alex+:%29)
+[![](https://readme-typing-svg.herokuapp.com/?lines=Hi...;I'm+Alex!;Welcome+to+my+Github+:%29)](#)
 
 I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
