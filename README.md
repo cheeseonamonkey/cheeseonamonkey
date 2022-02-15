@@ -4,8 +4,8 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Hi...;I'm+Alex+:%29)
 
-[My repos](https://github.com/cheeseonamonkey?tab=repositories)
-[My pull requests](https://github.com/search?q=user%3Acheeseonamonkey+&type=issues)
+- [My repos](https://github.com/cheeseonamonkey?tab=repositories)
+- [My pull requests](https://github.com/search?q=user%3Acheeseonamonkey+&type=issues)
 
 I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
