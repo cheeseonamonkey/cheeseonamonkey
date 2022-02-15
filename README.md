@@ -15,7 +15,7 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-<h3>  📊 Stats </h3> 
+##  📊 Stats
 
 
 <h3 align="left">Technical Competencies</h3>
@@ -42,19 +42,20 @@ I am very passionate about running, coding, politics, and piano.
 
 |  |  |
 | ---------- | ---------- |
-| ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)  | ![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)  |
-| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheeseonamonkey&theme=dark&date_format=M%20j%5B%2C%20Y%5D) | . |
+| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)](#)  |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheeseonamonkey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](#) | . |
 
 
 
 
+<br>
 
 ---
 
 
 <br>
 
-<h3> 👦 About Me </h3>
+## 👦 About Me
 
 
 - 💻 I’m currently working on:
@@ -95,7 +96,7 @@ I am very passionate about running, coding, politics, and piano.
 
 <br>
 
-<h3>  🏫 Education </h3> 
+###  🏫 Education
 
 #### Davis Technology College — Software & Web Development - Java Emphasis
 Utah<br>
