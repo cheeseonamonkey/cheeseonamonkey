@@ -20,29 +20,44 @@ I am very passionate about running, coding, politics, and piano.
 
 <h3 align="left">Technical Competencies</h3>
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <!---  C#  --> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <!---  CSS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <!---  .NET  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="55" height="55"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <!---  HTML  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <!---  Java  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <!---  JS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <!---  SQL  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a>
-</p>
+<span>
 
-<br>
+<!---  C#  --> 
+<img src="https://user-images.githubusercontent.com/54555500/153981054-3d9e80ee-fa9b-4ad3-b18c-250d9ae7f344.png" alt="csharp" width="55" height="55"/>
+ 
+ <!---  .NET  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981418-c8506c2d-68fe-4f97-bd0b-66f2ffdc5514.png" alt="dotnet" width="55" height="55"/>
+ 
+<!---  Java  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981474-d4542bc2-10cd-45e2-9e69-c4601a80a957.png" alt="java" width="55" height="55"/>
+ 
+<!---  Android  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981710-33f3a0e1-1dc5-4cb3-b337-8c056fa091b6.png" alt="android" width="55" height="55"/>
+ 
+<!---  SQL  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981582-b01c3404-c855-450b-be17-770d52a65d0b.png" alt="sql" width="55" height="55"/>
+  
+<!---  HTML  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981460-b2163a23-b168-4d0e-868f-127e7cc1065f.png" alt="html5" width="55" height="55"/> 
+ 
+<!---  CSS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153980318-07d2be91-84d2-4efd-a760-bb5dc1dfa974.png" alt="css3" width="55" height="55"/>
+
+<!---  JS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/54555500/153981545-7da2bde7-5413-40ac-a2b9-c2e960a86104.png" alt="javascript" width="55" height="55"/>
+
+
+
+
+
+</span>
+
+<br><br>
 
 
 |  |  |
 | ---------- | ---------- |
-| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | *highly inaccurate*<br>[![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)](#)  |
+| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | *(highly inaccurate)*<br>[![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)](#)  |
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheeseonamonkey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](#) | . |
 
 
