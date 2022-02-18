@@ -116,7 +116,7 @@ I am very passionate about running, coding, politics, and piano.
 #### Davis Technology College — Software & Web Development - Java Emphasis
 Utah<br>
 Graduation: 2020<br>
-Application, database, and software design principles; Java, HTML/CSS, Javascript, SQL, .NET<br>
+Application, database, and software design principles; Java, C#, .NET, HTML/CSS, Javascript, SQL<br>
 https://www.davistech.edu/software-development
 
 
