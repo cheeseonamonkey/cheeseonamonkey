@@ -10,7 +10,8 @@ I am very passionate about running, coding, politics, and piano.
 
 - [My repos](https://github.com/cheeseonamonkey?tab=repositories)
 - [My pull requests](https://github.com/search?q=type%3Apr+user%3Acheeseonamonkey&type=Issues)
-- [All Github activity](https://github.com/search?q=user%3Acheeseonamonkey&type=Issues)
+- [All my Github activity](https://github.com/search?q=user%3Acheeseonamonkey&type=Issues)
+- [Starred by me](https://github.com/cheeseonamonkey?tab=stars)
 
 
 <br>
