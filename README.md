@@ -96,7 +96,11 @@ I am very passionate about running, coding, politics, and piano.
      >*Android app to do stuff with the Spotify API
      >(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
 
+    - [SiteThing](https://github.com/cheeseonamonkey/SpotMan) (Azure app)
+        
+     >*SQL skills demonstration, transitioning to SQL Server from MYSQL; a few features I think are cool*
 
+  
 - 🌱 I’m currently learning:
     - Advanced Android development (Java)
     - Intermediate Typescript (and advanced Javascript)
