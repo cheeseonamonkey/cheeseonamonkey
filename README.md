@@ -96,7 +96,7 @@ I am very passionate about running, coding, politics, and piano.
      >*Android app to do stuff with the Spotify API
      >(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
 
-    - [SiteThing](https://github.com/cheeseonamonkey/SpotMan) (Azure app)
+    - [SiteThing](https://github.com/cheeseonamonkey/sitething) (Azure app)
         
      >*SQL skills demonstration, transitioning to SQL Server from MYSQL; a few features I think are cool*
 
