@@ -8,10 +8,16 @@ I'm just another coder, fascinated by technology and life. I am experienced most
 
 I am very passionate about running, coding, politics, and piano. 
 
+##### Github activity:
+
 - [My repos](https://github.com/cheeseonamonkey?tab=repositories)
 - [My pull requests](https://github.com/search?q=type%3Apr+user%3Acheeseonamonkey&type=Issues)
-- [All my Github activity](https://github.com/search?q=user%3Acheeseonamonkey&type=Issues)
 - [Starred by me](https://github.com/cheeseonamonkey?tab=stars)
+- [All my Github activity](https://github.com/search?q=user%3Acheeseonamonkey&type=Issues)
+
+##### Azure sites:
+- [SiteThing](https://sitething.azurewebsites.net) (live site for projects, sql database w/ user accounts, random features)
+- [Fresh OS Links](https://orange-pond-0891b6510.azurestaticapps.net) (links to begin anew with a fresh OS)
 
 
 [My Replits ](https://replit.com/@ffatty)
