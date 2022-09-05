@@ -2,7 +2,7 @@
  
 [![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) ](#)
 
-[![](https://readme-typing-svg.herokuapp.com/?lines=~%2F%24%20ls%3B%27ls%27%20is%20not%20recognized%20as%20an%20internal%20or%20external%20command%2C%20operable%20program%2C%20or%20batch%20file.%3B%20%3B](#)
+[![](https://readme-typing-svg.herokuapp.com/?height=125;&lines=~%2F%24%20ls%3B%27ls%27%20is%20not%20recognized%20as%20an%20internal%20or%20external%20command%2C%20operable%20program%2C%20or%20batch%20file.%3B%20%3B) ](#)
 
 I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
