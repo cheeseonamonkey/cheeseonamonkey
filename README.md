@@ -2,7 +2,7 @@
  
 [![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) ](#)
 
-[![](https://readme-typing-svg.herokuapp.com/?height=125;&lines=~%2F%24%20ls%3B%27ls%27%20is%20not%20recognized%20as%20an%20internal%20or%20external%20command%2C%20operable%20program%2C%20or%20batch%20file.%3B%20%3B) ](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&color=C6C9C7&background=394C392E&multiline=true&width=450&height=140&lines=ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
 
 I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
