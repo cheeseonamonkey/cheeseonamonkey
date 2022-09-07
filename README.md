@@ -2,7 +2,7 @@
  
 [![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) ](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&color=C6C9C7&background=394C392E&multiline=true&width=450&height=140&lines=ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&multiline=true&width=450&height=140&lines=ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
 
 I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
 
@@ -20,7 +20,7 @@ I am very passionate about running, coding, politics, and piano.
 - [Fresh OS Links](https://orange-pond-0891b6510.azurestaticapps.net) (links to begin anew with a fresh OS)
 
 
-[My Replits ](https://replit.com/@ffatty)
+##### [My Replits](https://replit.com/@ffatty)
 
 <br>
 
@@ -66,7 +66,7 @@ I am very passionate about running, coding, politics, and piano.
 
 |  |  |
 | ---------- | ---------- |
-| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | *(highly inaccurate)*<br>[![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/languages.svg)](#)  |
+| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | . |
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheeseonamonkey&date_format=M%20j%5B%2C%20Y%5D)](#) | . |
 
 
