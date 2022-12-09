@@ -8,22 +8,6 @@ I'm just another coder, fascinated by technology and life. I am experienced most
 
 I am very passionate about running, coding, politics, and piano. 
 
-##### Github activity:
-
-- [My repos](https://github.com/cheeseonamonkey?tab=repositories)
-- [My pull requests](https://github.com/search?q=type%3Apr+user%3Acheeseonamonkey&type=Issues)
-- [Starred by me](https://github.com/cheeseonamonkey?tab=stars)
-- [All my Github activity](https://github.com/search?q=user%3Acheeseonamonkey&type=Issues)
-
-##### Azure sites:
-- [SiteThing](https://sitething.azurewebsites.net) (live site for projects, sql database w/ user accounts, random features)
-- [Fresh OS Links](https://orange-pond-0891b6510.azurestaticapps.net) (links to begin anew with a fresh OS)
-
-
-##### [My Replits](https://replit.com/@ffatty)
-
-<br>
-
 ##  📊 Stats
 
 
@@ -76,49 +60,6 @@ I am very passionate about running, coding, politics, and piano.
 
 ---
 
-
-<br>
-
-## 👦 About Me
-
-
-- 💻 I’m currently working on:
-    - [Obsidian Companion](https://github.com/cheeseonamonkey/ObsidianCompanion) (Android app)
-        
-    >*Companion app to the Obsidian.MD Android app*
-
-    - [Obsidian Crypto Lookup](https://github.com/cheeseonamonkey/obsidian-crypto-lookup) (Obsidian plugin)
-        
-    >*Live price lookup feature*
-
-    - [Spotify Manager](https://github.com/cheeseonamonkey/SpotMan) (Android app)
-        
-     >*Android app to do stuff with the Spotify API
-     >(on pause for now - needs a lot of low-level structural changes; when I started it I wasn't as knowledgable about Android development as I am now)*
-
-    - [SiteThing](https://github.com/cheeseonamonkey/sitething) (Azure app)
-        
-     >*SQL skills demonstration, transitioning to SQL Server from MYSQL; a few features I think are cool*
-
-  
-- 🌱 I’m currently learning:
-    - Advanced Android development (Java)
-    - Intermediate Typescript (and advanced Javascript)
-    - Azure
-
-
-- 📫 How to reach me:
-    - Shoot me a message here on Github or [email me](mailto:cheeseonamonkey@gmail.com)
-
- <!--- idk put something here some day maybe 
-- ⚡ Cool / misc: 
- -->
-
-
-
-<br>
-
----
 
 
 
