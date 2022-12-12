@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&multiline=true&width=450&height=140&lines=ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
 
-I'm just another coder, fascinated by technology and life. I am experienced mostly in object-oriented languages (especially Java and C#), but I have dabbled in many areas.
+I'm just another coder/tinkerer. I am experienced mostly in object-oriented languages (especially Java and C#), but lately I have dabbled a lot with Kotlin and JS.
 
 I am very passionate about running, coding, politics, and piano. 
 
@@ -14,6 +14,7 @@ I am very passionate about running, coding, politics, and piano.
 <h3 align="left">Technical Competencies</h3>
 
 <span>
+<small>
 
 <!---  C#  --> 
 <img src="https://user-images.githubusercontent.com/54555500/153981054-3d9e80ee-fa9b-4ad3-b18c-250d9ae7f344.png" alt="csharp" width="55" height="55"/>
@@ -29,34 +30,21 @@ I am very passionate about running, coding, politics, and piano.
  
 <!---  SQL  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/54555500/153981582-b01c3404-c855-450b-be17-770d52a65d0b.png" alt="sql" width="55" height="55"/>
-  
-<!---  HTML  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/54555500/153981460-b2163a23-b168-4d0e-868f-127e7cc1065f.png" alt="html5" width="55" height="55"/> 
- 
-<!---  CSS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/54555500/153980318-07d2be91-84d2-4efd-a760-bb5dc1dfa974.png" alt="css3" width="55" height="55"/>
 
 <!---  JS  --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/54555500/153981545-7da2bde7-5413-40ac-a2b9-c2e960a86104.png" alt="javascript" width="55" height="55"/>
+</small>
 
 
 
 
 
-</span>
-
-<br><br>
-
-
-|  |  |
-| ---------- | ---------- |
-| [![](https://github.com/cheeseonamonkey/github-stats/blob/master/generated/overview.svg)](#)  | . |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheeseonamonkey&date_format=M%20j%5B%2C%20Y%5D)](#) | . |
 
 
 
 
-<br>
+
+
 
 ---
 
@@ -67,14 +55,13 @@ I am very passionate about running, coding, politics, and piano.
 
 ###  🏫 Education
 
-#### Davis Technology College — Software & Web Development - Java Emphasis
-Utah<br>
-Graduation: 2020<br>
-Application, database, and software design principles; Java, C#, .NET, HTML/CSS, Javascript, SQL<br>
-https://www.davistech.edu/software-development
+- #### Davis Technology College — Software & Web Development *([course list](https://www.davistech.edu/tuition-and-fees?pk=323&pn=Software%20Development))*
+   - Utah<br>
+   - Graduation: 2020<br>
+   - Database and software design principles using Java, C#, .NET, HTML/CSS, Javascript, SQL<br>
+   - [Course reflections](https://alexanderhuso.wordpress.com/classwork/)
 
 
-#### High School
-Utah<br>
-Graduation: 2013<br>
-Programming Club - 2010-2011<br>
+- #### High School
+   - Utah<br>
+   - Graduation: 2013<br>
