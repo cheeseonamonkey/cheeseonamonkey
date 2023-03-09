@@ -2,7 +2,7 @@
  
 [![](https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey) ](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&multiline=true&width=450&height=140&lines=~%2F;>+ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=80&multiline=true&width=450&height=140&lines=C%3A%2FUsers%2FAlexander%20%20;+;ls;+;Error+-+'ls'+is+not+recognized+as+an;internal+or+external+command%2C+operable;program%2C+or+batch+file.)](#)
 
 I'm just another coder/tinkerer. I am experienced mostly in object-oriented languages (especially Java and C#), but lately I have dabbled a lot with Kotlin and JS.
 
