@@ -10,8 +10,8 @@
 ## <b><u> Hello! </u></b> <br> <sub><sub><i>I am Alexander.</i></sub></sub>
 
 My recent activity:
-<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" />
-<iframe src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" />
+<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" ></frame>
+<iframe src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" ></iframe>
 
 <br>
 <!--
