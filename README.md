@@ -9,6 +9,8 @@
 
 ## <b><u> Hello! </u></b> <br> <sub><sub><i>I am Alexander.</i></sub></sub>
 
+My recent activity:
+![embed](https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey)
 
 <br>
 <!--
