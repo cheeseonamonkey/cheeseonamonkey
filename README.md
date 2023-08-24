@@ -15,8 +15,12 @@
 
 ## <b><u> Hello! </u></b> <br> <sub><sub><i>I am Alexander.</i></sub></sub>
 
-My recent activity:
-<iframe src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" ></iframe>
+<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
+<h1>
+  My recent activity:
+
+</h1>
+</iframe>
 
 <br>
 <!--
