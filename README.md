@@ -20,7 +20,7 @@
   My recent activity:
 
 </h1>
-</iframe>
+</frame>
 
 <br>
 <!--
