@@ -3,14 +3,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
 <span>hello</span>
-  <script type="text/javascript">
-    <![CDATA[
-      // Your JavaScript code here
-      function handleClick() {
-        alert("SVG clicked!");
-      }
-    ]]>
-  </script>
+  
   <rect x="50" y="50" width="100" height="100" fill="blue" onclick="handleClick()" />
 </svg>
 
@@ -23,7 +16,6 @@
 ## <b><u> Hello! </u></b> <br> <sub><sub><i>I am Alexander.</i></sub></sub>
 
 My recent activity:
-<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" ></frame>
 <iframe src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" ></iframe>
 
 <br>
