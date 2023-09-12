@@ -17,8 +17,8 @@
 
 <h1>
   My recent activity:
-<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
-</frame>
+< f r a m e  src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
+< / f r a m e >
 
 </h1>
 
