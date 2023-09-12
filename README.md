@@ -15,12 +15,12 @@
 
 ## <b><u> Hello! </u></b> <br> <sub><sub><i>I am Alexander.</i></sub></sub>
 
-<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
 <h1>
   My recent activity:
+<frame src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
+</frame>
 
 </h1>
-</frame>
 
 <br>
 <!--
