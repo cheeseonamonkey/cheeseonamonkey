@@ -9,11 +9,12 @@
   <sub><sub><i>I am Alexander - developer & tinkerer.</i></sub></sub>
 
 <div >
-  <table  height="150vw">
-     <tr ><td width="100%" align="center" colspan="2">
+  <table width="105%" margin="0" padding="0" height="142vw">
+     <tr margin="0" padding="0">
+       <td width="100%" margin="0" padding="0" align="center" colspan="2">
        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=cheeseonamonkey&theme=onedark&row=1&margin-w=-1&no-frame=true"   /></td>
 </tr>
-  <tr>
+  <tr margin="0" padding="0">
   <td><img width="100%"  height="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheeseonamonkey&theme=onedark&utcOffset=-7" /></td>
    <td><img width="100%" height="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheeseonamonkey&theme=onedark"  /></td>
     </tr>
