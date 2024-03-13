@@ -27,8 +27,8 @@
   - [Source](https://github.com/cheeseonamonkey/TicTacThree)
  
 - **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
-  - [Live webpage](https://cheeseonamonkey.github.io/TicTacThree/)
-  - [Source](https://github.com/cheeseonamonkey/TicTacThree)
+  - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
+  - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
 
 - Machine learning / statistical analysis of my cat's favorite foods: <br/>*I've been interested in data science & Python lately _(as is the trend)_. I tracked data for over 6 months on my cat's reactions to different foods to try to prove her favorite flavors.*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
