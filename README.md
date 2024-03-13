@@ -41,6 +41,9 @@
 - Android Link-to-intent schema-mapping app
   - https://github.com/cheeseonamonkey/android-LinkToIntent-schema
 
+- Fun with word embeddings _(graphing semantic representations of language onto 2 dimensions)_:
+  - [fun 1](https://cheeseonamonkey.github.io/misc/NLP/USEDemo.html)
+  - [fun 2](https://cheeseonamonkey.github.io/misc/NLP/USEDemo.html)
 
 
 <br /><br /><br />
