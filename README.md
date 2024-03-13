@@ -7,7 +7,7 @@
 
   ## <b><u>Hello!</u></b> 👋
   _I am Alexander - coder & tinkerer._
-  <br />
+  <br /><br />
   Please set my phone's wallpaper [**here**](my-pape.replit.app/)!
 
 <br /><br />
