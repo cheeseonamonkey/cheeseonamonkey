@@ -15,8 +15,9 @@
 ## Some of my projects:
 
 - **Pape**: <br/> *Set my phone's wallapaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; wrote a SQL database, an API, a web client, and an Android app.*
-   - [Deployed](https://replit.com/@ffatty/MyPape) API, database, and webpage.
-   - [Android app](https://github.com/cheeseonamonkey/PapeAndroid)
+   - [Live webpage](my-pape.replit.app/)
+   - Deployed [source](https://replit.com/@ffatty/MyPape) API, database, and webpage.
+   - Android app [source](https://github.com/cheeseonamonkey/PapeAndroid)
 
 - **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to cross-platform binary for executing in shell terminals.*
   - [Source](https://github.com/cheeseonamonkey/CLI-AI)
