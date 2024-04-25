@@ -11,6 +11,11 @@
   Please set my phone's wallpaper [**here**](my-pape.replit.app/)!
 
 <br /><br />
+Links:
+- [Kaggle](https://www.kaggle.com/ffatty)
+- [Replit](https://replit.com/@ffatty)
+- [Codewars](https://www.codewars.com/users/cheeseonamonkey)
+- [Chess](https://www.chess.com/member/ffatty160)
 
 ## Some of my projects:
 
