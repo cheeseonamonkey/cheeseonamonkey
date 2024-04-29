@@ -19,11 +19,6 @@ Links:
 
 ## Some of my projects:
 
-
-- **StickTrainer**: <br/> *Help train an AI that draws stick figures!*<br/>
-   - [Live webpage](https://cheeseonamonkey.github.io/misc/NLP/StickmanTrainer.html
-)
-
 - **Pape**: <br/> *Set my phone's wallapaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; wrote a SQL database, an API, a web client, and an Android app.*
    - [Live webpage](https://cheeseonamonkey.github.io/misc/NLP/StickmanTrainer.html)
    - Deployed [source](https://replit.com/@ffatty/MyPape) API, database, and webpage.
@@ -54,6 +49,12 @@ Links:
 - Fun with word embeddings _(graphing semantic representations of language onto 2 dimensions)_:
   - [grapher & comparer](https://cheeseonamonkey.github.io/misc/NLP/USEDemo.html)
   - [multi-grapher](https://cheeseonamonkey.github.io/misc/NLP/AutoLibrarian.html) for visual comparisons
+
+- **PetFinder**: <br/> *Never lose your pets again!*<br/>
+   - [Live webpage](https://cheeseonamonkey.github.io/misc/CatFinder.html) 
+
+- **StickTrainer**: <br/> *Help train an AI that draws stick figures!*<br/>
+   - [Live webpage](https://cheeseonamonkey.github.io/misc/NLP/StickmanTrainer.html)
 
 
 <br /><br /><br />
