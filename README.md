@@ -36,7 +36,10 @@ Links:
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
 
-- Machine learning / statistical analysis of my cat's favorite foods: <br/>*I've been interested in data science & Python lately _(as is the trend)_. I tracked data for over 6 months on my cat's reactions to different foods to try to prove her favorite flavors.*
+- **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize selected text.</i>
+  - [Source](https://github.com/cheeseonamonkey/CSummarizer)
+
+- Machine learning statistical analysis of my cat's favorite flavors: <br/>*I've been interested in data science & learning Python lately _(as is the trend)_. <br/>I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
 
 - Obsidian Companion (Android app)
