@@ -36,7 +36,8 @@ Links:
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
 
-- **[SmsWordClouds](https://github.com/cheeseonamonkey/SmsWordClouds)** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
+- **SmsWordClouds** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
+  - [Source](https://github.com/cheeseonamonkey/SmsWordClouds)
 
 - **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize selected text.</i>
   - [Source](https://github.com/cheeseonamonkey/CSummarizer)
