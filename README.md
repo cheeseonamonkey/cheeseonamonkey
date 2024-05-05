@@ -27,7 +27,7 @@ My profile links:
 
 ## Some of my projects:
 
-- **Pape**: <br/> *Set my phone's wallapaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; wrote a SQL database, an API, a web client, and an Android app.*
+- **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote a SQL database, an API, a web client, and an Android app.*
    - [Live webpage](https://my-pape.replit.app/)
    - Deployed [source](https://replit.com/@ffatty/MyPape) (API, database, and webpage).
    - Android app [source](https://github.com/cheeseonamonkey/PapeAndroid)
@@ -52,6 +52,9 @@ My profile links:
 
 - Machine learning statistical analysis of my cat's favorite flavors: <br/>*I've been interested in data science & learning Python lately _(as is the trend)_. <br/>I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
+
+- PoolTrack <br />*App I developed while working at a hotel to track pool reservations during the COVID-19 pandemic. I fondly remember this as the first app I've written that saw regular production use.*
+  - [Source](https://github.com/cheeseonamonkey/PoolTrack)
 
 - Obsidian Companion (Android app)
   - [Source](https://github.com/cheeseonamonkey/ObsidianCompanion)
