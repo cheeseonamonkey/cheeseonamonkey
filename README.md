@@ -11,11 +11,15 @@
   Please set my phone's wallpaper [**here**](https://my-pape.replit.app/)!
 
 <br /><br />
-Links:
-- [Kaggle](https://www.kaggle.com/ffatty)
-- [Replit](https://replit.com/@ffatty)
-- [Codewars](https://www.codewars.com/users/cheeseonamonkey)
-- [Chess](https://www.chess.com/member/ffatty160)
+Profile links:
+- [Replit](https://replit.com/@ffatty) _(where I host my back-ends for free/cheap)_
+- [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
+- [Kaggle](https://www.kaggle.com/ffatty) _(datasets)_
+- [Codewars](https://www.codewars.com/users/cheeseonamonkey) _(daily coding challenges)_
+- [Chess](https://www.chess.com/member/ffatty160) _(chess.com account)_
+- [My Gists](https://gist.github.com/cheeseonamonkey) _(my Github gists)_
+
+cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 ## Some of my projects:
 
@@ -68,11 +72,17 @@ Links:
 
 ## Stats
 
-### My chess stats
 
 
 
-### Github stats
+
+  ### Recent Github activities:
+  
+  <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=15"  />
+
+
+  
+### Other Github stats
 <div >
   <table width="105%" margin="0" padding="0" height="142vw">
      <tr margin="0" padding="0">
@@ -87,15 +97,23 @@ Links:
   <br/>
 
 
-  ### Recent Github activities:
+
+### My chess stats
+
+
+
+  <!--
+
+<sup>*(I was hoping I could embed this into the Readme, lol)*</sup>
+  
   <svg fill="gray" style="min-width: 200px;" viewBox="0 0 120 120" width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-      <frame  src="https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey" >
+      <frame  src="" >
     </frame>
     </foreignObject>
   </svg>
   
-###### <sub> <small>cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey</small> </sub>
+###### <sub>https://cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey</small> </sub>
   <br/>
 
   <!--
