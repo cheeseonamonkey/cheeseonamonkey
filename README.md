@@ -78,9 +78,11 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 
   ### Recent Github activity:
-<sup>[Source code](https://replit.com/@ffatty/GithubActivityWidget#server.js)</sup>
+  <sub>[*(Source code for this widget)*](https://replit.com/@ffatty/GithubActivityWidget#server.js)</sub>
+
 [![gh activity](https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10&width=950&height=600)](#)
 
+<br />
 
   
 ### Other Github stats
