@@ -10,11 +10,12 @@
 
   My favorite programming language is Kotlin, my favorite font is [Rubik](https://fonts.google.com/specimen/Rubik), and my favorite web dev stack is Tailwind + React + Vite.
   
-  <br /><br />
+  <br />
   Please set my phone's wallpaper [**here**](https://my-pape.replit.app/)!
 
+
 <br /><br />
-Profile links:
+My profile links:
 - [Replit](https://replit.com/@ffatty) _(where I host my back-ends for free/cheap)_
 - [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
 - [Kaggle](https://www.kaggle.com/ffatty) _(datasets)_
@@ -22,7 +23,6 @@ Profile links:
 - [Chess](https://www.chess.com/member/ffatty160) _(chess.com account)_
 - [My Gists](https://gist.github.com/cheeseonamonkey) _(my Github gists)_
 
-cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 ## Some of my projects:
 
