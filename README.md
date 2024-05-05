@@ -27,19 +27,21 @@ My profile links:
 
 ## Some of my projects:
 
-- **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote a SQL database, an API, a web client, and an Android app.*
+1. **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote a SQL database, an API, a web client, and an Android app.*
    - [Live webpage](https://my-pape.replit.app/)
    - Deployed [source](https://replit.com/@ffatty/MyPape) (API, database, and webpage).
    - Android app [source](https://github.com/cheeseonamonkey/PapeAndroid)
 
-- **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to cross-platform binary for executing in shell terminals.*
+2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to cross-platform binary for executing in shell terminals.*
   - [Source](https://github.com/cheeseonamonkey/CLI-AI)
   - See documentation.
 
-- **TicTacThree**: <br/> *3-dimensional TicTacToe idea — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
+3. **TicTacThree**: <br/> *3-dimensional TicTacToe idea — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
   - [Live webpage](https://cheeseonamonkey.github.io/TicTacThree/)
   - [Source](https://github.com/cheeseonamonkey/TicTacThree)
- 
+
+
+#### Misc projects:
 - **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
