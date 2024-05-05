@@ -78,8 +78,9 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 
   ### Recent Github activity:
+
   
-  <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10&width=950&height=600"  />
+[![gh activity](https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10&width=950&height=600)](#)
 
 
   
