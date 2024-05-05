@@ -76,7 +76,7 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 
 
-  ### Recent Github activities:
+  ### Recent Github activity:
   
   <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=15"  />
 
