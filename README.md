@@ -11,7 +11,8 @@
   My favorite programming language is Kotlin, my favorite font is [Rubik](https://fonts.google.com/specimen/Rubik), and my favorite web dev stack is Tailwind + React + Vite.
   
   <br />
-  Please set my phone's wallpaper <a href"https://my-pape.replit.app/"> <b>here</b></a>!
+  
+  Please set my phone's wallpaper **[here](https://my-pape.replit.app)**!
 
 
 <br /><br />
