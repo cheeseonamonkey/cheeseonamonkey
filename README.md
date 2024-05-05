@@ -77,8 +77,6 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
 
 
-
-
   ### Recent Github activity:
   
   <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10&width=950&height=600"  />
@@ -87,7 +85,7 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
   
 ### Other Github stats
 <div >
-  <table width="105%" margin="0" padding="0" height="142vw">
+  <table width="105%" margin="0" padding="0" height="300vw">
      <tr margin="0" padding="0">
        <td width="100%" margin="0" padding="0" align="center" colspan="2">
        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=cheeseonamonkey&theme=onedark&row=1&margin-w=-1&no-frame=true"   /></td>
