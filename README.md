@@ -40,8 +40,8 @@ My profile links:
   - [Live webpage](https://cheeseonamonkey.github.io/TicTacThree/)
   - [Source](https://github.com/cheeseonamonkey/TicTacThree)
 
-
-#### Misc projects:
+<br />
+### More/misc projects:
 - **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
