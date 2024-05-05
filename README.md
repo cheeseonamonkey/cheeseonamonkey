@@ -7,6 +7,9 @@
 
   ## <b><u>Hello!</u></b> 👋
   _I am Alexander - coder & tinkerer._
+
+  My favorite programming language is Kotlin, my favorite font is [Rubik](https://fonts.google.com/specimen/Rubik), and my favorite web dev stack is Tailwind+React+Vite.
+  
   <br /><br />
   Please set my phone's wallpaper [**here**](https://my-pape.replit.app/)!
 
@@ -78,7 +81,7 @@ cheeseonamonkey.github.io/misc/GithubActivityWidget/?user=cheeseonamonkey
 
   ### Recent Github activity:
   
-  <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=15"  />
+  <image src="https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10"  />
 
 
   
