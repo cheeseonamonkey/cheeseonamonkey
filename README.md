@@ -3,46 +3,51 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=cheeseonamonkey.cheeseonamonkey" align="right"/>
   </a>
 
-  
-
   ## <b><u>Hello!</u></b> 👋
-  _I am Alexander - coder & tinkerer!_
+  _I am Alexander — coder & tinkerer!_
 
   My favorite programming language is Kotlin, my favorite font is [Rubik](https://fonts.google.com/specimen/Rubik), and my favorite web dev stack is Tailwind + React + Vite.
-  
-  <br />
-  
-  Please set my phone's wallpaper **[here](https://my-pape.replit.app)**!
 
+Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)**!
 
-<br /><br />
+<br />
+
 #### My profile links:
-- [Replit](https://replit.com/@ffatty) _(where I host my back-ends for free/cheap)_
-- [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
+- [Replit](https://replit.com/@ffatty) _(where I host my backends for free/cheap)_
 - [Kaggle](https://www.kaggle.com/ffatty) _(datasets)_
+- [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
 - [Codewars](https://www.codewars.com/users/cheeseonamonkey) _(daily coding challenges)_
-- [Chess](https://www.chess.com/member/ffatty160) _(chess.com account)_
+- [Chess](https://www.chess.com/member/ffatty160) _(chess.com account; one of many)_
 - [My Gists](https://gist.github.com/cheeseonamonkey) _(my Github gists)_
 
+<br />
 
-## Some of my projects:
+# My Projects
 
-1. **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote a SQL database, an API, a web client, and an Android app.*
+## My favorite projects:
+
+1. **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote from scratch a SQL database <sub>(sqlite)</sub>, a REST API <sub>(express.js)</sub>, a web client, and an Android app.*
    - [Live webpage](https://my-pape.replit.app/)
    - Deployed [source](https://replit.com/@ffatty/MyPape) (API, database, and webpage).
    - Android app [source](https://github.com/cheeseonamonkey/PapeAndroid)
 
-2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to cross-platform binary for executing in shell terminals.*
+<br />
+
+2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to a cross-platform binary to be casually executed in shell terminals.*
   - [Source](https://github.com/cheeseonamonkey/CLI-AI)
   - See documentation.
 
-3. **TicTacThree**: <br/> *3-dimensional TicTacToe idea — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
+<br />
+
+3. **TicTacThree**: <br/> *3-dimensional TicTacToe game — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
   - [Live webpage](https://cheeseonamonkey.github.io/TicTacThree/)
   - [Source](https://github.com/cheeseonamonkey/TicTacThree)
 
 <br />
+<br />
 
-### More/misc projects:
+
+## More/misc/other projects:
 
 - **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
@@ -51,14 +56,14 @@
 - **SmsWordClouds** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
   - [Source](https://github.com/cheeseonamonkey/SmsWordClouds)
 
-- **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize selected text.</i>
-  - [Source](https://github.com/cheeseonamonkey/CSummarizer)
-
 - Machine learning statistical analysis of my cat's favorite flavors: <br/>*I've been interested in data science & learning Python lately _(as is the trend)_. <br/>I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
 
 - PoolTrack <br />*App I developed while working at a hotel to track pool reservations during the COVID-19 pandemic. I fondly remember this as the first app I've written that saw regular production use.*
   - [Source](https://github.com/cheeseonamonkey/PoolTrack)
+
+- **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize highlighted text.</i>
+  - [Source](https://github.com/cheeseonamonkey/CSummarizer)
 
 - Obsidian Companion (Android app)
   - [Source](https://github.com/cheeseonamonkey/ObsidianCompanion)
@@ -77,11 +82,19 @@
 - **StickTrainer**: <br/> *Help train an AI that draws stick figures!*<br/>
    - [Live webpage](https://cheeseonamonkey.github.io/misc/NLP/StickmanTrainer.html)
 
+- **DNR noticer**: <br/> *A simple Chrome extension someone requested, for use at a previous job I had.*<br/>
+  - [Source](https://github.com/cheeseonamonkey/dnr_noticer)
+
+- **Github Activity Widget**: <br/> *Gets Github activity as an SVG (for markdown embedding — see stats below)*<br/>
+  - [Source](https://replit.com/@ffatty/GithubActivityWidget)
+  - [_(Example)_](https://github-activity-widget-ffatty.replit.app/github-activity.svg?user=cheeseonamonkey&pages=10)
+
+
 
 <br /><br /><br />
 
 
-## Stats
+# My Stats
 
 
 
