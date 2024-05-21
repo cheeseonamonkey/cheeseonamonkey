@@ -14,7 +14,7 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 #### My profile links:
 - [Replit](https://replit.com/@ffatty) _(where I host my backends for free/cheap)_
-- [Kaggle](https://www.kaggle.com/ffatty) _(datasets)_
+- [Kaggle](https://www.kaggle.com/ffatty) _(I maintain a few datasets here)_
 - [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
 - [Codewars](https://www.codewars.com/users/cheeseonamonkey) _(daily coding challenges)_
 - [Chess](https://www.chess.com/member/ffatty160) _(chess.com account; one of many)_
