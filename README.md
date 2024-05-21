@@ -13,7 +13,7 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 <br />
 
 #### My profile links:
-- [Replit](https://replit.com/@ffatty) _(where I host my backends for free/cheap)_
+- [Replit](https://replit.com/@ffatty) _(PaaS where I host my backends for free/cheap)_
 - [Kaggle](https://www.kaggle.com/ffatty) _(I maintain a few datasets here)_
 - [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
 - [Codewars](https://www.codewars.com/users/cheeseonamonkey) _(daily coding challenges)_
