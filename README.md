@@ -49,6 +49,9 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 ## More/misc/other projects:
 
+- **Machine learning statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
+  - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
+
 - **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
@@ -56,10 +59,7 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 - **SmsWordClouds** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
   - [Source](https://github.com/cheeseonamonkey/SmsWordClouds)
 
-- **Machine learning statistical analysis of my cat's favorite flavors**: <br/>*I've been interested in data science & learning Python lately _(as is the trend)_. <br/>I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
-  - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
-
-- PoolTrack <br />*App I developed while working at a hotel to track pool reservations during the COVID-19 pandemic. I fondly remember this as the first app I've written that saw regular production use.*
+- PoolTrack <br />*App I developed while working at a hotel to track pool reservations during the COVID-19 pandemic. I fondly remember this as the first app I've written that saw regular real world use!*
   - [Source](https://github.com/cheeseonamonkey/PoolTrack)
 
 - **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize highlighted text.</i>
@@ -76,7 +76,7 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
   - [grapher & comparer](https://cheeseonamonkey.github.io/misc/NLP/USEDemo.html)
   - [multi-grapher](https://cheeseonamonkey.github.io/misc/NLP/AutoLibrarian.html) for visual comparisons
 
-- **PetFinder**: <br/> *Never lose your pets again!*<br/>
+- **PetFinder**: <br/> *Never lose your pets again! A simple demo CV implementation. *<br/>
    - [Live webpage](https://cheeseonamonkey.github.io/misc/CatFinder.html) 
 
 - **StickTrainer**: <br/> *Help train an AI that draws stick figures!*<br/>
