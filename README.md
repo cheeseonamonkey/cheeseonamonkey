@@ -52,7 +52,7 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 - **Machine learning statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
 
-- **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is quite underrated, and I've become very familiar with it from fiddling often over the years.</i>
+- **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is awesome and quite underrated; I've become very familiar with it from fiddling often over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
 
