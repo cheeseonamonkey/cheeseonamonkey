@@ -14,10 +14,10 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 #### Links:
 - [Replit](https://replit.com/@ffatty) _(PaaS where I host my backends for free/cheap)_
+- [Resume](https://docs.google.com/document/d/1hyIU3eWm-PvW6HIB7fhnRChUUMzkudBweGUB0TWMyl4/edit?usp=sharing)
 - [Kaggle](https://www.kaggle.com/ffatty) _(I maintain a few datasets here)_
 - [LinkedIn](https://www.linkedin.com/in/alexanderhuso/)
 - [Codewars](https://www.codewars.com/users/cheeseonamonkey) _(daily coding challenges)_
-- [Resume](https://docs.google.com/document/d/1hyIU3eWm-PvW6HIB7fhnRChUUMzkudBweGUB0TWMyl4/edit?usp=sharing)
 - [My Gists](https://gist.github.com/cheeseonamonkey) _(my Github gists)_
 <!-- - [Chess](https://www.chess.com/member/ffatty160) _(chess.com account; one of many)_ -->
 
