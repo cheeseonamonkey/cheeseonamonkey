@@ -27,14 +27,14 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 ## My favorite projects:
 
-1. **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote from scratch a SQL database <sub>(sqlite)</sub>, a REST API <sub>(express.js)</sub>, a web client, and an Android app.*
+1. **Pape**: <br/> *Set my phone's wallpaper anonymously — **this can't go wrong**! <br/> A simple idea that was fun to implement; for it I wrote from scratch a SQL database (sqlite), a REST API (express.js), a web client, and an Android app.*
    - [Live webpage](https://my-pape.replit.app/)
    - Deployed [source](https://replit.com/@ffatty/MyPape) (API, database, and webpage).
    - Android app [source](https://github.com/cheeseonamonkey/PapeAndroid)
 
 <br />
 
-2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal. Written in Kotlin, to be compiled to a cross-platform binary to be casually executed in shell terminals.*
+2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal and can run commands. Written in Kotlin, to be compiled to a cross-platform binary to be casually executed in shell terminals.*
   - [Source](https://github.com/cheeseonamonkey/CLI-AI)
   - See documentation.
 
@@ -50,21 +50,21 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 ## More/misc/other projects:
 
-- **Machine learning statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
+- **ML Statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
   - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
 
-- **Sperdify**: <br /> <i>React & Tailwind (TS & Vite) client for the Spotify API. Spotify's API is awesome and quite underrated; I've become very familiar with it from fiddling often over the years.</i>
+- **Sperdify**: <br /> <i>React client for the Spotify API. Spotify's API is awesome and quite underrated; I've become very familiar with it over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
   - [Source](https://www.github.com/cheeseonamonkey/Sperdify/)
-
-- **SmsWordClouds** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
-  - [Source](https://github.com/cheeseonamonkey/SmsWordClouds)
 
 - PoolTrack <br />*App I developed while working at a hotel to track pool reservations during the COVID-19 pandemic. I fondly remember this as the first app I've written that saw regular real world use!*
   - [Source](https://github.com/cheeseonamonkey/PoolTrack)
 
 - **CSummarizer** *(Android app)*: <br /> <i>Extractively (locally; without internet) summarize highlighted text.</i>
   - [Source](https://github.com/cheeseonamonkey/CSummarizer)
+ 
+- **SmsWordClouds** *(Android app)*: <br /> *Generate word clouds directly from querying your text messages.*
+  - [Source](https://github.com/cheeseonamonkey/SmsWordClouds)
 
 - Obsidian Companion (Android app)
   - [Source](https://github.com/cheeseonamonkey/ObsidianCompanion)
