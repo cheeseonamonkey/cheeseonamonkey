@@ -34,15 +34,10 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 <br />
 
-2. **CLI-AI**: <br/> *An AI assistant that lives inside your linux terminal and can run commands. Written in Kotlin, to be compiled to a cross-platform binary to be casually executed in shell terminals.*
-  - [Source](https://github.com/cheeseonamonkey/CLI-AI)
-  - See documentation.
-
-<br />
 
 3. **TicTacThree**: <br/> *3-dimensional TicTacToe game — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
   - [Live webpage](https://cheeseonamonkey.github.io/TicTacThree/)
-  - [Source](https://github.com/cheeseonamonkey/TicTacThree)
+  - [Source](https://github.com/cheeseonamonkey/TT3)
 
 <br />
 <br />
