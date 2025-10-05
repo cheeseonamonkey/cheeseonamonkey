@@ -35,18 +35,21 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 <br />
 
 
-3. **TicTacThree**: <br/> *3-dimensional TicTacToe game — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
+2. **TicTacThree**: <br/> *3-dimensional TicTacToe game — rendered & visualized, as well as testing computer player strategies. Using Node.js, rendered with Three.js.*
   - [Live webpage](https://cheeseonamonkey.github.io/TT3/)
   - [Source](https://github.com/cheeseonamonkey/TT3)
 
+<br />
+
+3. **ML Statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
+  - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
 <br />
 <br />
 
 
 ## More/misc/other projects:
 
-- **ML Statistical analysis of my cat's favorite flavors**: <br/>*I tracked data for over 6 months on my cat's reactions to different foods to try to mathamtically **prove** her favorite flavors!*
-  - [Notebook](https://colab.research.google.com/drive/13EwP__erWDCGIRtbWfygSR2ajhHQmVPA)
+
 
 - **Sperdify**: <br /> <i>React client for the Spotify API. Spotify's API is awesome and quite underrated; I've become very familiar with it over the years.</i>
   - [Live webpage](https://cheeseonamonkey.github.io/Sperdify/)
