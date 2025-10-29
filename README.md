@@ -107,6 +107,9 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
   
 ### Other Github stats
 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseonamonkey)](https://github.com/anuraghazra/github-readme-stats)
 
 <div >
@@ -124,12 +127,17 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
 
 
-### My chess stats
+---
+
+
+
+
+
 
 
 
   <!--
-
+### My chess stats
 <sup>*(I was hoping I could embed this into the Readme, lol)*</sup>
   
   <svg fill="gray" style="min-width: 200px;" viewBox="0 0 120 120" width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
