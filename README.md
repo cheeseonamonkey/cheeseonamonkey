@@ -106,6 +106,9 @@ Please anonymously set my phone's wallpaper **[here](https://my-pape.replit.app)
 
   
 ### Other Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseonamonkey)](https://github.com/anuraghazra/github-readme-stats)
+
 <div >
   <table width="105%" margin="0" padding="0" height="300vw">
      <tr margin="0" padding="0">
