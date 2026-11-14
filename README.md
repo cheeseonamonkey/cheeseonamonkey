@@ -1,8 +1,8 @@
 # Hello!
 
-I write code. Sometimes even on purpose.
+I write code. Sometimes even on purpose. ALWAYS compulsively. 
 
-Android, NLP/ML, developer tooling, and whatever else I've gotten unnecessarily curious about lately.
+Android, NLP/ML, developer tooling, security research, and whatever else I've gotten unnecessarily curious about lately.
 
 Favorite language: Kotlin. Favorite font: [Rubik](https://fonts.google.com/specimen/Rubik). Favorite web stack: Tailwind + React + Vite.
 
