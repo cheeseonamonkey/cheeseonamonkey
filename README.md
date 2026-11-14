@@ -1,6 +1,7 @@
 # Hello!
 
-I write code. Sometimes even on purpose. ALWAYS compulsively. 
+I write code. Sometimes even on purpose. Always 
+compulsively. 
 
 Android, NLP/ML, developer tooling, security research, and whatever else I've gotten unnecessarily curious about lately.
 
